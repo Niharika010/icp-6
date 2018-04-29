@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\a769faf7129d9604aa17cc230da3e03f96bdb491\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db111b1a48b6a61321251ed989d650d4b373af05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\382a53c7c1bc8810905d66d083f48004c6ed4f90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2f6c25172d618e4801b28ce05cc270963a55b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\a2b2fdf9fc3b8eb4e18a1b8a84af2ffb5d659796\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b26a79a0fe7d6fc15af05f2e77d7f2bbd5ddcfd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\85714d1c32fd4431c48c7b023373e2280cf7fd99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c982fedcc8e46e631fb974201151207232fb5329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_11a50dcdc0ca43b331efb96fe7116546a26333be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_f564074d81e89b090c7667d2d7cf04bc4221e9e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb7ae1f3ed0f43f07ade08c28de45a3fd27da479">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8b8fe0c260efee190e26e66fdd543f9bdd2b9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\8dc2c2c132c4c30860d0bd43b63c4f5ab493b4c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba872c28de7b0a0c293f5a842f7cf25fb7fbf063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\08837d99a71d66d46991819fb846785e551bb4b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fdf8018f629cf0d2af384b2a3ea379c047d5f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\8fdad7a9ca35bfe0865e849af9371b68dea5cc0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d94a1b7f61a7c204ec5f155aedb4878d86f5d044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\1aaafb5ff00d88c5d43928515ae61c9714a414a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea5e5864c3e4b0fef8c01810afadb953db0a5eaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GIRISH\.android\build-cache\b9262b14659fddb4b1f72847bbddcd9b034ffb52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\GIRISH\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f199c035df2be86c72cf45075e3aec0e021e163\classes.dex" />
+    </item>
+
+</items>
